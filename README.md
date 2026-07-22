@@ -271,8 +271,7 @@ GitHub statistics, contribution graph, streak, and top languages will be display
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:chukwumamaxwell2006@gmail.com
-">
+<a href="mailto:chukwumamaxwell2006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
