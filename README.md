@@ -29,51 +29,52 @@ My goal is to become a world-class **Cyber Systems Engineer** by mastering softw
 
 ---
 
-# 🛠 Tech Stack
+🛠 Tech Stack
+Languages
 
-### Languages
+<p> <img src="https://skillicons.dev/icons?i=python,go,js,ts,bash"/> </p>
 
-* Python
-* Go
-* JavaScript
-* SQL
+Backend
 
-### Backend
+<p> <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/> </p>
 
-* FastAPI
-* REST APIs
-* JWT Authentication
-* SQLAlchemy
-* Pydantic
+Databases
 
-### Databases
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/> </p>
 
-* PostgreSQL
-* SQLite
-* Redis
+Cloud & DevOps
 
-### DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux"/> </p>
 
-* Docker
-* Git
-* GitHub Actions
-* Linux
-* Nginx
+Tools
 
-### Cloud
+<p> <img src="https://skillicons.dev/icons?i=git,vscode,postman"/> </p>
 
-* AWS (Learning)
-* CI/CD
-* Deployment
-* Containers
+📊 GitHub Stats
 
-### Security
+<p align="center">
 
-* API Security
-* OWASP
-* Authentication
-* Encryption
-* Secure Coding
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
+
+</p>
 
 ---
 
