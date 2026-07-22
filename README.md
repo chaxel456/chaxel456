@@ -221,13 +221,68 @@ GitHub statistics, contribution graph, streak, and top languages will be display
 
 ---
 
-# 🤝 Let's Connect
+## 🌐 Connect With Me
 
-* GitHub
-* LinkedIn
-* Email
-* Portfolio Website
+<p align="center">
 
+<a href="https://github.com/chaxel456" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://your-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://x.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</p>
+
+## 👀 Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chaxel456&label=Profile%20Views&color=00FFFF&style=for-the-badge" />
+</p>
+
+## 📬 Contact Me
+
+- 🌍 Nigeria
+- 💼 Open to Backend & Cloud Opportunities
+- 📧 your@email.com
+- 🌐 Portfolio: https://your-portfolio.vercel.app
+
+- <p align="center">
+
+<a href="https://github.com/chaxel456">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://your-portfolio.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://img.icons8.com/fluency/48/twitterx.png" width="48"/>
+</a>
+
+</p>
 ---
 
 > **"Build systems that are secure, scalable, and built to last."**
