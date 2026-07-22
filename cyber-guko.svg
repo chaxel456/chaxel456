@@ -1,0 +1,359 @@
+```svg
+<!-- ===========================================================
+ CYBER GUKO v1.0
+ Author: ChatGPT
+ Save as: assets/cyber-guko.svg
+ ============================================================ -->
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="420"
+     height="420"
+     viewBox="0 0 420 420">
+
+<defs>
+
+<!-- Blue Glow -->
+
+<filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+    <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+</filter>
+
+<!-- Floating -->
+
+<animateTransform
+id="float"
+attributeName="transform"
+type="translate"
+values="0 0;0 -8;0 0"
+dur="3s"
+repeatCount="indefinite"/>
+
+</defs>
+
+<!-- Background -->
+
+<rect
+width="420"
+height="420"
+fill="#0D1117"/>
+
+<!-- Stars -->
+
+<g opacity=".35">
+
+<circle cx="35" cy="40" r="2" fill="#39d0ff">
+<animate attributeName="opacity"
+values=".2;1;.2"
+dur="3s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="90" cy="90" r="1.5" fill="#39d0ff">
+<animate attributeName="opacity"
+values="1;.2;1"
+dur="4s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="370" cy="60" r="2" fill="#39d0ff">
+<animate attributeName="opacity"
+values=".2;1;.2"
+dur="5s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="390" cy="300" r="2" fill="#39d0ff">
+<animate attributeName="opacity"
+values="1;.2;1"
+dur="2.5s"
+repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- Main Group -->
+
+<g>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;0 -10;0 0"
+dur="3s"
+repeatCount="indefinite"/>
+
+<!-- Shadow -->
+
+<ellipse
+cx="140"
+cy="345"
+rx="60"
+ry="10"
+fill="#000"
+opacity=".3"/>
+
+<!-- Tail -->
+
+<path
+fill="none"
+stroke="#f4ae4d"
+stroke-width="18"
+stroke-linecap="round"
+d="M84 255
+C30 235
+40 315
+90 295">
+
+<animate
+attributeName="d"
+dur="2s"
+repeatCount="indefinite"
+values="
+M84 255 C30 235 40 315 90 295;
+M84 255 C20 220 55 320 100 285;
+M84 255 C30 235 40 315 90 295"/>
+
+</path>
+
+<!-- Body -->
+
+<ellipse
+cx="140"
+cy="245"
+rx="58"
+ry="82"
+fill="#F4AE4D"/>
+
+<!-- Hoodie -->
+
+<path
+d="M92 180
+Q140 150
+188 180
+L175 285
+L105 285
+Z"
+fill="#111827"/>
+
+<!-- Head -->
+
+<circle
+cx="140"
+cy="125"
+r="58"
+fill="#F4AE4D"/>
+
+<!-- Ears -->
+
+<polygon
+points="95,82 112,30 128,82"
+fill="#F4AE4D"/>
+
+<polygon
+points="152,82 168,30 185,82"
+fill="#F4AE4D"/>
+
+<!-- Eyes -->
+
+<ellipse
+cx="120"
+cy="120"
+rx="6"
+ry="8"
+fill="#39d0ff"
+filter="url(#glow)">
+
+<animate
+attributeName="ry"
+values="8;0.5;8"
+dur="4s"
+repeatCount="indefinite"/>
+
+</ellipse>
+
+<ellipse
+cx="160"
+cy="120"
+rx="6"
+ry="8"
+fill="#39d0ff"
+filter="url(#glow)">
+
+<animate
+attributeName="ry"
+values="8;0.5;8"
+dur="4s"
+repeatCount="indefinite"/>
+
+</ellipse>
+
+<!-- Nose -->
+
+<circle
+cx="140"
+cy="140"
+r="3"
+fill="#111"/>
+
+<!-- Mouth -->
+
+<path
+d="M140 143
+Q140 154 132 158"
+stroke="#111"
+stroke-width="2"
+fill="none"/>
+
+<path
+d="M140 143
+Q140 154 148 158"
+stroke="#111"
+stroke-width="2"
+fill="none"/>
+
+<!-- Whiskers -->
+
+<line x1="104" y1="140" x2="84" y2="136"
+stroke="#111" stroke-width="2"/>
+
+<line x1="104" y1="147" x2="82" y2="147"
+stroke="#111" stroke-width="2"/>
+
+<line x1="176" y1="140" x2="196" y2="136"
+stroke="#111" stroke-width="2"/>
+
+<line x1="176" y1="147" x2="198" y2="147"
+stroke="#111" stroke-width="2"/>
+
+<!-- Laptop -->
+
+<rect
+x="235"
+y="180"
+width="125"
+height="80"
+rx="8"
+fill="#161B22"
+stroke="#39d0ff"
+stroke-width="2"/>
+
+<!-- Screen Text -->
+
+<text
+x="248"
+y="205"
+font-size="14"
+font-family="monospace"
+fill="#39d0ff">
+
+>
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur=".8s"
+repeatCount="indefinite"/>
+
+</text>
+
+<text
+x="262"
+y="205"
+font-size="14"
+font-family="monospace"
+fill="#39d0ff">
+
+sudo hack
+
+<animate
+attributeName="opacity"
+values="0;1;1"
+dur="4s"
+repeatCount="indefinite"/>
+
+</text>
+
+<!-- Cursor -->
+
+<rect
+x="333"
+y="194"
+width="8"
+height="14"
+fill="#39d0ff">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur=".6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- Keyboard -->
+
+<rect
+x="226"
+y="262"
+width="145"
+height="14"
+rx="3"
+fill="#2d333b"/>
+
+<!-- Feet -->
+
+<ellipse
+cx="122"
+cy="318"
+rx="10"
+ry="7"
+fill="#de9638"/>
+
+<ellipse
+cx="160"
+cy="318"
+rx="10"
+ry="7"
+fill="#de9638"/>
+
+</g>
+
+</svg>
+```
+
+# README Usage
+
+```markdown
+<p align="center">
+  <img src="assets/cyber-guko.svg" width="340">
+</p>
+```
+
+### ✨ Current Animations
+
+* 👀 Eyes blink every 4 seconds
+* ☁️ Floating motion
+* 💙 Neon glowing eyes
+* 🖥️ Terminal cursor blinks
+* 🌌 Cyber stars twinkle
+* 🐈 Tail sways continuously
+
+## 🔥 Version 2 (coming next)
+
+We'll make it look much more like a premium GitHub mascot with:
+
+* 🤖 Matrix rain in the background
+* ⌨️ Real typing animation (`git push`, `docker build`, `python main.py`)
+* ⚡ Electric effects around the eyes
+* 💙 RGB lighting
+* 💻 Dual-monitor hacker setup
+* 🎧 Animated headphones
+* ☕ Coffee cup with rising steam
+* 🐾 Walking animation
+* 🌐 XSOLA hologram floating above the laptop
+
+This will make your GitHub profile stand out with a unique animated mascot that matches your Cyber Systems Engineer branding.
