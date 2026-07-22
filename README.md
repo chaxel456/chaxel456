@@ -1,4 +1,4 @@
-# 👨‍💻 CHUKWUMA Maxwell
+# 👨‍💻 VICTOR Maxwell
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?weight=600&size=21&duration=3000&pause=1000&color=2EF72C&center=true&vCenter=true&width=700&lines=Cyber+Systems+Engineer;Backend+Engineer;Cloud+Engineer;Automation+Engineer;Python+Developer;Golang+Developer;JavaScript+Developer" alt="Typing SVG" />
