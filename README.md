@@ -6,8 +6,6 @@
 
 
 
-### Cyber Systems Engineer | Backend Engineer | Cloud & Automation Developer
-
 > Building scalable backend systems, secure cloud applications, automation tools, and modern APIs with Python, Go, and JavaScript.
 
 ---
